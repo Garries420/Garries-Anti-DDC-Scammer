@@ -1,8 +1,8 @@
-# Garries Anti DDC Scammer 3.4.0
+# Garries Anti DDC Scammer 3.4.1
 
 Public edition for Horizon Roleplay funders. Installing the mod does not grant funder status; access is managed by the crew.
 
-[Download the public ZIP](https://github.com/Garries420/Garries-Anti-DDC-Scammer/releases/download/v3.4.0/Anti-DDC-Scammer-public-v3.4.0.zip) · [Release notes](https://github.com/Garries420/Garries-Anti-DDC-Scammer/releases/tag/v3.4.0)
+[Download the public ZIP](https://github.com/Garries420/Garries-Anti-DDC-Scammer/releases/download/v3.4.1/Anti-DDC-Scammer-public-v3.4.1.zip) · [Release notes](https://github.com/Garries420/Garries-Anti-DDC-Scammer/releases/tag/v3.4.1)
 
 ## Installation
 
@@ -11,7 +11,7 @@ Public edition for Horizon Roleplay funders. Installing the mod does not grant f
 3. Extract the release ZIP there, merging moonloader and replacing the mod files.
 4. Keep your existing configuration and start SA-MP.
 
-Use the complete ZIP for your first 3.4.0 installation. Older local test builds have automatic updates disabled. This full release checks for signed updates at startup and reloads only this mod after an update.
+Existing full-release installations update automatically when the mod next starts. The signed update reloads only Anti DDC Scammer and preserves configuration. Use the complete ZIP for a new installation. Older local test builds have automatic updates disabled.
 
 ## Requirements
 
@@ -30,6 +30,6 @@ Command names can be changed under Shortcuts. These are the defaults:
 | /ddclogs | Personal local payment console and period filters. |
 | /ddcsetpay [amount] | Set the Aim and pay amount; no amount shows usage and current value. |
 
-Payments accept $5,000-$20,000, including shortcuts such as 5k, 10k and 20k. Aim and pay is disabled with no assigned button by default; enable and bind it in Shortcuts. Local logs start fresh on this installation; Clear all affects only your PC.
+Payments accept $5,000-$30,000, including shortcuts such as 5k, 10k and 30k. Cooldown warnings identify the previous funder and amount before offering a 30-second repeat confirmation. Aim and pay is disabled with no assigned button by default; enable and bind it in Shortcuts. Local logs start fresh on this installation; Clear all affects only your PC.
 
 The ZIP's README.txt contains installation instructions and requirements.
