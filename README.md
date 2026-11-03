@@ -23,6 +23,7 @@ Command names can be changed under Shortcuts. These are the defaults:
 
 | Command | Purpose |
 | --- | --- |
+| /ddcreload | Reload only Anti DDC Scammer. |
 | /ddc [playerid/partofname] [amount] | Nearby hand-cash payment. |
 | /wddc [playerid/partofname] [amount] | Bank wire payment. |
 | /ddcedit | Settings, commands and access check. |
@@ -31,5 +32,7 @@ Command names can be changed under Shortcuts. These are the defaults:
 | /ddcsetpay [amount] | Set the Aim and pay amount; no amount shows usage and current value. |
 
 Payments accept $5,000-$30,000, including shortcuts such as 5k, 10k and 30k. Cooldown warnings identify the previous funder and amount before offering a 30-second repeat confirmation. Aim and pay is disabled with no assigned button by default; enable and bind it in Shortcuts. Local logs start fresh on this installation; Clear all affects only your PC.
+
+Crew radio messages are enabled by default and can be switched off in Overview. This personal setting is saved; payment syncing and Discord logging continue. Access/update errors automatically produce a diagnostic report with Windows version, request timing and proxy flags, without credentials or payment history.
 
 The ZIP's README.txt contains installation instructions and requirements.
