@@ -1,8 +1,8 @@
-# Garries Anti DDC Scammer 3.5.1
+# Garries Anti DDC Scammer 3.5.2
 
 Public edition for Horizon Roleplay funders. Installing the mod does not grant funder status; access is managed by the crew.
 
-[Download the public ZIP](https://github.com/Garries420/Garries-Anti-DDC-Scammer/releases/download/v3.5.1/Anti-DDC-Scammer-public-v3.5.1.zip) · [Release notes](https://github.com/Garries420/Garries-Anti-DDC-Scammer/releases/tag/v3.5.1)
+[Download the public ZIP](https://github.com/Garries420/Garries-Anti-DDC-Scammer/releases/download/v3.5.2/Anti-DDC-Scammer-public-v3.5.2.zip) · [Release notes](https://github.com/Garries420/Garries-Anti-DDC-Scammer/releases/tag/v3.5.2)
 
 ## Installation
 
