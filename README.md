@@ -1,8 +1,8 @@
-# Garries Anti DDC Scammer 3.6.1
+# Garries Anti DDC Scammer 3.7.0
 
 Public edition for Horizon Roleplay funders. Installing the mod does not grant funder status; access is managed by the crew.
 
-[Download the public ZIP](https://github.com/Garries420/Garries-Anti-DDC-Scammer/releases/download/v3.6.1/Anti-DDC-Scammer-public-v3.6.1.zip) · [Release notes](https://github.com/Garries420/Garries-Anti-DDC-Scammer/releases/tag/v3.6.1)
+[Download the public ZIP](https://github.com/Garries420/Garries-Anti-DDC-Scammer/releases/download/v3.7.0/Anti-DDC-Scammer-public-v3.7.0.zip) · [Release notes](https://github.com/Garries420/Garries-Anti-DDC-Scammer/releases/tag/v3.7.0)
 
 ## Installation
 
@@ -34,5 +34,7 @@ Command names can be changed under Shortcuts. These are the defaults:
 Payments accept $5,000-$30,000, including shortcuts such as 5k, 10k and 30k. Cooldown warnings identify the previous funder and amount before offering a 30-second repeat confirmation. Aim and pay is disabled with no assigned button by default; enable and bind it in Shortcuts. Local logs start fresh on this installation; Clear all affects only your PC.
 
 Overview has separate saved Mute mine and Mute others controls for crew radio. Mute mine stops automatic announcements; Mute others hides only other senders' matching DDC announcements locally. Your own messages and ordinary crew chat remain visible. Payment syncing and Discord logging continue. The payment console supports full/partial recipient names, case-insensitive matching and spaces/underscores. Access/update errors automatically produce a diagnostic report with Windows version, request timing and proxy flags, without credentials or payment history.
+
+Eligible nearby death observations appear in recent-payment warnings. Tracking runs from :45 to :30 each hour, resets at :30, uses a 160.64-metre radius and merges repeated observations within 30 seconds. Deaths are shared by roleplay name, never posted to Discord, and do not alter cash or gun totals.
 
 The ZIP's README.txt contains installation instructions and requirements.
